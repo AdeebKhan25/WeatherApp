@@ -14,7 +14,7 @@ Features:
 
 ```bash
 git clone https://github.com/AdeebKhan25/WeatherApp.git
+```
 
 ### Further Assistance
-
 If you need any more help or have other questions, feel free to ask. Happy coding! 🚀
