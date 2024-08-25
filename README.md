@@ -24,7 +24,7 @@ cd WeatherApp
 ```bash
 yarn install
 ```
-4. Create a .env file and add your API key there.
+4. Create a .env file and add your API key.
 5. Start the app:
 ```bash
 yarn run dev
