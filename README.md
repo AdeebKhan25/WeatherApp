@@ -18,7 +18,7 @@ git clone https://github.com/AdeebKhan25/WeatherApp.git
 ```
 2. Navigate to the WeatherApp Directory:
 ```bash
-cd Weather
+cd WeatherApp
 ```
 3. Install dependencies:
 ```bash
