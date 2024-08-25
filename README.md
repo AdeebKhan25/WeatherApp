@@ -6,7 +6,7 @@ A simple and intuitive weather application built with React and powered by Openw
 
 1. View current weather conditions for any city in the world.
 2. Responsive design for seamless experience across devices.
-3. Built with React, JavaScript, and integrates with Openweathermap API. Explore weather like never before!
+3. Built with React, JavaScript, and integrates with Openweathermap API. Explore the weather like never before!
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ To get started with this project locally, follow these steps:
 ```bash
 git clone https://github.com/AdeebKhan25/WeatherApp.git
 ```
-2. Navigate to the WeatherApp Directory:
+2. Navigate to the WeatherApp directory:
 ```bash
 cd WeatherApp
 ```
